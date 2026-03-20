@@ -5,14 +5,14 @@ import java.util.Collections;
 public class Task4 {
     public static void main(String[] args) {
         ArrayList<String> contactsInPhone = new ArrayList<>();
-        contactsInPhone.add("Yasuo");
-        contactsInPhone.add("Sekiro");
-        contactsInPhone.add("Akali");
+        contactsInPhone.add("Luna");
+        contactsInPhone.add("Orion");
+        contactsInPhone.add("Nova");
 
         ArrayList<String> contactsInSim = new ArrayList<>();
-        contactsInSim.add("Acheron");
-        contactsInSim.add("Yone");
-        contactsInSim.add("Archer");
+        contactsInSim.add("Zephyr");
+        contactsInSim.add("Aurora");
+        contactsInSim.add("Lyra");
 
         ArrayList<String> Allcontacts = new ArrayList<>();
         for (String contact : contactsInPhone) {
